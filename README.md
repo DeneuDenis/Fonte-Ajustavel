@@ -37,3 +37,5 @@ https://tinyurl.com/yzauqfla[Board e schematic.zip](https://github.com/DeneuDeni
 # Imagem do board
 ![image](https://user-images.githubusercontent.com/68250033/127785052-da3b0d05-0426-483a-90cd-1333ae8d7b56.png)
 
+# Autoria 
+Daniel Afonso Borges dos Santos- 12608581

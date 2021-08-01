@@ -27,8 +27,7 @@ limita a passagem da corrente no circuito.
 ## transformador
 Diminui a tensão vinda da tomada.
 # Link para o Falstad
-https://tinyurl.com/yzauqfla[Board e schematic.zip](https://github.com/DeneuDenis/Fonte-Ajustavel/files/6913433/Board.e.schematic.zip)
-[Board e schematic.zip](https://github.com/DeneuDenis/Fonte-Ajustavel/files/6913434/Board.e.schematic.zip)
+https://tinyurl.com/yjsenkk6
 
 # Imagem do circuito
 ![image](https://user-images.githubusercontent.com/68250033/127785311-03c42bc8-bcb4-443f-ba87-aa717113c6ab.png)

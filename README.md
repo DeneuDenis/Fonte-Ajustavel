@@ -4,13 +4,15 @@
 Todos os preços foram conferidos no site https://www.baudaeletronica.com.br
 | Componente  |  Preço  |
 | ------------------- | ------------------- |
-|  Capacitor Eletrolítico 330uF / 35V |  R$ 0,54 |
-|  Resistor 2K7 5% (1/4W) x2 |  R$ 0,05 x2 |
+|  Capacitor Eletrolítico 470uF / 35V |  R$ 0,77 |
+|  Resistor 2K7 5% (1/4W) |  R$ 0,05 |
+|  Resistor 1K8 5% (1/4W) |  R$ 0,05 |
 |  Ponte Retificadora KBPC1010 |  R$ 3,67 |
 |  Diodo Zener 1N4743 [13V / 1W] |  R$ 0,19 |
 |  Potenciômetro Linear de 5K (5000Ω) |  R$ 1,99 |
 |  Transistor NPN BC337 |  R$ 0,20 |
 |  Transformador Trafo 12V+12V 500mA - 110/220VAC |  R$ 32,86 |
+Vídeo curto com explicação dos valores escolhidos: https://drive.google.com/file/d/1bg3l0aVqp5aAvlKfoLDQY94b8t1-KplE/view?usp=sharing
 
 ## ponte retificadora
 Aproveita a energia vinda do gerador(tomada) em ambas as fases da onda.
@@ -27,8 +29,7 @@ limita a passagem da corrente no circuito.
 ## transformador
 Diminui a tensão vinda da tomada.
 # Link para o Falstad
-https://tinyurl.com/yjsenkk6
-
+https://tinyurl.com/yhgow4pc
 # Imagem do circuito
 ![image](https://user-images.githubusercontent.com/68250033/127785311-03c42bc8-bcb4-443f-ba87-aa717113c6ab.png)
 # Imagem do schematic
